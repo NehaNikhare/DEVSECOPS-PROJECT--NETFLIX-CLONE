@@ -1,18 +1,6 @@
+# DevSecOps Project - Netflix Clone 
 
-  <br>
-  <a href="http://netflix-clone-with-tmdb-using-react-mui.vercel.app/">
-    <img src="./public/assets/netflix-logo.png" alt="Logo" width="100" height="32">
-  </a>
-</div>
-
-<br />
-
-<div align="center">
-  <img src="./public/assets/home-page.png" alt="Logo" width="100%" height="100%">
-  <p align="center">Home Page</p>
-</div>
-
-
+![image](https://github.com/user-attachments/assets/10d4d1ac-5407-4ce0-b063-57f468ddbeb6)
 
 
 ### **Phase 1: Initial Setup and Deployment**
